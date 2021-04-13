@@ -18,7 +18,7 @@ Link to [Rental Analysis Code](https://github.com/onyxcollc/SanFrancisco_Real_Es
 
 
 To complete this task, you would first need to create an environment with all the proper imports.
-Make sure if there are any updates needed you do so.
+Make sure if there are any updates needed, you should do so.
 
 ```
 import os
