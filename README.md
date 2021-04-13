@@ -18,7 +18,10 @@ Link to [Rental Analysis Code](https://github.com/onyxcollc/SanFrancisco_Real_Es
 
 
 To complete this task, you would first need to create an environment with all the proper imports.
+
 Make sure if there are any updates needed, you should do so.
+
+Keep in mind the data used was from 2010-2016 "sfo_neighborhoods_census_data.csv" & "neighborhoods_coordinates.csv".
 
 ```
 import os
