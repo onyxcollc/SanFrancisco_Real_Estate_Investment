@@ -23,3 +23,10 @@ Link to [Rental Analysis Code](https://github.com/onyxcollc/SanFrancisco_Real_Es
 
 ![dashboard-demo.gif](Images/dashboard-demo.gif)
 
+---
+
+### Created By
+
+__Nicholas Olumese__, Profile: [LinkedIn](https://www.linkedin.com/in/nicholas-olumese/)
+
+
