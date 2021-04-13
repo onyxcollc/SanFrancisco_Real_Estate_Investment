@@ -36,19 +36,16 @@ pn.extension('plotly')
 
 Some of the analysis completed where:
 
-1. Yearly Market Analysis
+#### Yearly Market Analysis
+* Find the number of housing units sold per year.
+* The average gross rent in San Fran. 
+* The average sales price in San Fran.
 
-* Finding the number of housing units sold per year.
-* The average gross rent in San Francisco. 
-* The average sales price in San Fran
-
-2. Neighborhood Analysis
-
-* San Fran sales per square foot per year 
+#### Neighborhood Analysis
+* San Fran sales per square foot per year.
 * Top 10 Expensive Neighborhoods.
 
-
-3. Parallel Plots Analysis
+#### Parallel Plots Analysis
 
 
 ---
