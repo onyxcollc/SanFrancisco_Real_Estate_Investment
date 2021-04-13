@@ -53,16 +53,18 @@ Some of the analysis completed:
 
 ---
 
-## Dashboard DEMO
+### Dashboard DEMO
 
 
 ![dashboard-demo.gif](Images/dashboard-demo.gif)
 
 ---
-#### Acknowledgment
+
+### Acknowledgment
 
 UC Berkeley Financial Technology Bootcamp
 
+---
 
 ### Created By
 
