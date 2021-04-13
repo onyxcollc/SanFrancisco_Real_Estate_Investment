@@ -12,6 +12,10 @@ Link to [Dashboard Code](https://github.com/onyxcollc/SanFrancisco_Real_Estate_I
 
 Link to [Rental Analysis Code](https://github.com/onyxcollc/SanFrancisco_Real_Estate_Investment/blob/main/rental_analysis.ipynb)
 
+---
+
+## Dashboard DEMO
+
 
 ![dashboard-demo.gif](Images/dashboard-demo.gif)
 
