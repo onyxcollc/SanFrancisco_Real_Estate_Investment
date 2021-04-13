@@ -3,3 +3,9 @@
 ---
 
 ![SanFran](Images/san-francisco-hero.jpg)
+
+
+---
+
+![dashboard-demo.gif](Images/dashboard-demo.gif)
+
