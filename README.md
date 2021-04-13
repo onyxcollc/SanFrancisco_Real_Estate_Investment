@@ -11,10 +11,45 @@ Harold's company has just started a new Real Estate Investment division to provi
 
 ---
 
-
 Link to [Dashboard Code](https://github.com/onyxcollc/SanFrancisco_Real_Estate_Investment/blob/main/dashboard.ipynb)
 
 Link to [Rental Analysis Code](https://github.com/onyxcollc/SanFrancisco_Real_Estate_Investment/blob/main/rental_analysis.ipynb)
+
+
+
+To complete this task, you would first need to create an environment with all the proper imports.
+Make sure if there are any updates needed you do so.
+
+```
+import os
+import pandas as pd
+import matplotlib.pyplot as plt
+import plotly.express as px
+import hvplot.pandas
+from pathlib import Path
+from dotenv import load_dotenv
+
+pn.extension('plotly')
+%matplotlib inline
+
+```
+
+Some of the analysis completed where:
+
+1. Yearly Market Analysis
+
+* Finding the number of housing units sold per year.
+* The average gross rent in San Francisco. 
+* The average sales price in San Fran
+
+2. Neighborhood Analysis
+
+* San Fran sales per square foot per year 
+* Top 10 Expensive Neighborhoods.
+
+
+3. Parallel Plots Analysis
+
 
 ---
 
